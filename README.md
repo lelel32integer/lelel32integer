@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lelel32integer
-- 👀 I’m interested in xml files bc what the hell even are they
+- 👀 UPDATE: I NOW KNOW WHAT AN XML IS
 - 🌱 I’m currently learning how to android studio
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my email
